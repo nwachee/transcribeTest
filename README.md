@@ -27,6 +27,8 @@ Transcribe Test
 
 - Documentation : [here](https://documenter.getpostman.com/view/23369669/2s9YJc1373)
 
+- [API Live link](https://transcribetest.onrender.com) 
+
 ## License
 This project is licensed under the MIT License.
 

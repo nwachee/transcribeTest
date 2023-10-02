@@ -13,7 +13,6 @@ if (!videoChunks) { res.status(404).json({ error: 'Video not found' }); }
  res.status(200).send({ data: videoChunks})
  } catch(error) { next(error) }
   }
-
   export const renderChunk = async(req, res, next) => {
     try {
     } catch (error) {next(error)}
